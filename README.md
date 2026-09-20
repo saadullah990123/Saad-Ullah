@@ -2,7 +2,7 @@
 
 * 🚀 **Aspiring Software Engineer & Full-Stack Developer** — passionate about building scalable web applications and software solutions
 * 🎓 **BS Computer Science student** at Pak-Austria Fachhochschule Institute of Applied Sciences and Technology (PAF-IAST)
-* 🌐 **Full-Stack Builder:** Skilled across Next.js, React, Node.js, TypeScript, , MySQL, and Supabase
+* 🌐 **Full-Stack Builder:** Skilled across Next.js, React, Node.js, TypeScript, MySQL, and Supabase
 * 🤖 **AI/ML Integration:** Passionate about integrating AI models into real-world applications
 * 👨‍🏫 **Educator & Mentor:** Active in bootcamps, code reviews, and technical consulting
 * 💬 **Ask me about:** Full-stack architecture or web application performance
@@ -12,29 +12,16 @@
 
 # 🚀 Featured Projects
 
-* 🧁 **Al-Ghani Sweets & Bakers** — Full-stack bakery e-commerce platform featuring a complete admin dashboard to handle orders, payments, and product catalog updates.  
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://alghani-sweets-bakers.vercel.app)
-
-* 🍕 **Pizzious** — Fast-food ordering web app with live payment integration, dynamic menu management, and real-time order tracking via the admin dashboard.  
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://pizzious.vercel.app)
-
-* 🌿 **Veloura Naturals** — Full-stack organic oil store with clean UI, integrated admin dashboard, and full inventory management.  
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://veloura-naturals.vercel.app)
-
-* 👕 **Daud Fabrics Full-Stack E-Commerce** — High-performance online clothing store with secure payment flows, automated order processing, and full admin capabilities.  
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://daud-fabrics-e-commerce.vercel.app)
-
-* 👔 **Daud Fabrics Online Store** — E-commerce storefront with an admin dashboard for adding and updating item catalogs.  
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://daud-fabrics-online-store.vercel.app)
-
-* 🎓 **Student Grade Manager (OOP)** — Second-semester Object-Oriented Programming project in C++ for tracking, managing, and calculating student academic performance.  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/saadullah990123/StudentGradeManager-Cpp)
-
-* 📚 **Library Management System** — Desktop application for handling book inventories, borrowing records, and member management.  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/saadullah990123/Library-System)
-
-* 💻 **First Semester Fundamentals Project** — First-semester foundational C++ application demonstrating modular code design and core algorithmic logic.  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/saadullah990123/First-Semester-Project)
+| Project | Description |
+| :--- | :--- |
+| 🧁 **[Al-Ghani Sweets & Bakers](https://alghani-sweets-bakers.vercel.app)** | Full-stack bakery e-commerce platform featuring a complete admin dashboard to handle orders, payments, and product catalog updates. |
+| 🍕 **[Pizzious](https://pizzious.vercel.app)** | Fast-food ordering web app with live payment integration, dynamic menu management, and real-time order tracking via the admin dashboard. |
+| 🌿 **[Veloura Naturals](https://veloura-naturals.vercel.app)** | Full-stack organic oil store with clean UI, integrated admin dashboard, and full inventory management. |
+| 👕 **[Daud Fabrics Full-Stack E-Commerce](https://daud-fabrics-e-commerce.vercel.app)** | High-performance online clothing store with secure payment flows, automated order processing, and full admin capabilities. |
+| 👔 **[Daud Fabrics Online Store](https://daud-fabrics-online-store.vercel.app)** | E-commerce storefront with an admin dashboard for adding and updating item catalogs. |
+| 🎓 **[Student Grade Manager (OOP)](https://github.com/saadullah990123/StudentGradeManager-Cpp)** | Second-semester Object-Oriented Programming project in C++ for tracking, managing, and calculating student academic performance. |
+| 📚 **[Library Management System](https://github.com/saadullah990123/Library-System)** | Desktop application for handling book inventories, borrowing records, and member management. |
+| 💻 **[First Semester Fundamentals Project](https://github.com/saadullah990123/First-Semester-Project)** | First-semester foundational C++ application demonstrating modular code design and core algorithmic logic. |
 
 ---
 
@@ -59,7 +46,6 @@
 ![](https://leetcode-stats-api.herokuapp.com/SaadUllahIrfan)
 
 ---
-
 
 
 ![](https://raw.githubusercontent.com/saadullah990123/saadullah990123/output/github-contribution-grid-snake.svg)
