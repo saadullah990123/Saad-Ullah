@@ -1,8 +1,7 @@
 # 🧑‍💻 About Me
 
 * 🚀 **Aspiring Software Engineer & Full-Stack Developer** — passionate about building scalable web applications and software solutions
-* 🎓 **BS Software Engineering student** at Pak-Austria Fachhochschule Institute of Applied Sciences and Technology (PAF-IAST)
-* ☁️ **Cloud & Infrastructure:** Hands-on experience with AWS, Docker, Kubernetes, Terraform, and Infrastructure as Code
+* 🎓 **BS Computer Science student** at Pak-Austria Fachhochschule Institute of Applied Sciences and Technology (PAF-IAST)
 * 🌐 **Full-Stack Builder:** Skilled across Next.js, React, Node.js, TypeScript, , MySQL, and Supabase
 * 🤖 **AI/ML Integration:** Passionate about integrating AI models into real-world applications
 * 👨‍🏫 **Educator & Mentor:** Active in bootcamps, code reviews, and technical consulting
@@ -61,7 +60,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+
 
 ![](https://raw.githubusercontent.com/saadullah990123/saadullah990123/output/github-contribution-grid-snake.svg)
 
