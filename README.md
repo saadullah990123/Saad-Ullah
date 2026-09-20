@@ -1,9 +1,57 @@
+# 🧑‍💻 About Me
+
+* 🚀 **Aspiring Software Engineer & Full-Stack Developer** — passionate about building scalable web applications and software solutions
+* 🎓 **BS Software Engineering student** at Pak-Austria Fachhochschule Institute of Applied Sciences and Technology (PAF-IAST)
+* ☁️ **Cloud & Infrastructure:** Hands-on experience with AWS, Docker, Kubernetes, Terraform, and Infrastructure as Code
+* 🌐 **Full-Stack Builder:** Skilled across Next.js, React, Node.js, TypeScript, , MySQL, and Supabase
+* 🤖 **AI/ML Integration:** Passionate about integrating AI models into real-world applications
+* 👨‍🏫 **Educator & Mentor:** Active in bootcamps, code reviews, and technical consulting
+* 💬 **Ask me about:** Full-stack architecture or web application performance
+* 📫 **Reach me:** +92 349 530 2487 · Islamabad, Pakistan
+
+---
+
+# 🚀 Featured Projects
+
+* 🧁 **Al-Ghani Sweets & Bakers** — Full-stack bakery e-commerce platform featuring a complete admin dashboard to handle orders, payments, and product catalog updates.  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://alghani-sweets-bakers.vercel.app)
+
+* 🍕 **Pizzious** — Fast-food ordering web app with live payment integration, dynamic menu management, and real-time order tracking via the admin dashboard.  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://pizzious.vercel.app)
+
+* 🌿 **Veloura Naturals** — Full-stack organic oil store with clean UI, integrated admin dashboard, and full inventory management.  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://veloura-naturals.vercel.app)
+
+* 👕 **Daud Fabrics Full-Stack E-Commerce** — High-performance online clothing store with secure payment flows, automated order processing, and full admin capabilities.  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://daud-fabrics-e-commerce.vercel.app)
+
+* 👔 **Daud Fabrics Online Store** — E-commerce storefront with an admin dashboard for adding and updating item catalogs.  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://daud-fabrics-online-store.vercel.app)
+
+* 🎓 **Student Grade Manager (OOP)** — Second-semester Object-Oriented Programming project in C++ for tracking, managing, and calculating student academic performance.  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/saadullah990123/StudentGradeManager-Cpp)
+
+* 📚 **Library Management System** — Desktop application for handling book inventories, borrowing records, and member management.  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/saadullah990123/Library-System)
+
+* 💻 **First Semester Fundamentals Project** — First-semester foundational C++ application demonstrating modular code design and core algorithmic logic.  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/saadullah990123/First-Semester-Project)
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ullah-irfan-5a542a304/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SaadUllahIrfan/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AYrBPKRgR/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DbaR6g2MsIJ/?stkn=MXFmdTVpZXp6NDYyOQ==)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923495302487)
+
+---
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
+---
 
 ## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saadullah990123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -12,4 +60,11 @@
 ![](https://leetcode-stats-api.herokuapp.com/SaadUllahIrfan)
 
 ---
+
+# 🐍 Contribution Snake
+
+![](https://raw.githubusercontent.com/saadullah990123/saadullah990123/output/github-contribution-grid-snake.svg)
+
+---
+
 ![](https://komarev.com/ghpvc/?username=saadullah990123&color=blue)
